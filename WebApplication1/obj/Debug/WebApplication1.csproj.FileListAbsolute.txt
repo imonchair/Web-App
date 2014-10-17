@@ -1,0 +1,6 @@
+G:\Documents\compclubintermediate\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+G:\Documents\compclubintermediate\WebApplication1\WebApplication1\bin\WebApplication1.dll
+G:\Documents\compclubintermediate\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+G:\Documents\compclubintermediate\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+G:\Documents\compclubintermediate\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+G:\Documents\compclubintermediate\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
